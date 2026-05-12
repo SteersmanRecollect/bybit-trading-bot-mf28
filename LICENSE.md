@@ -1,4 +1,4 @@
-# 
+# high-frequency Trading Bot for bybit trading bot | perpetual-trading & liquidation-sniping offers the most advanced bybit trading bot, with perpetual-trading and
 
 
 
